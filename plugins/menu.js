@@ -52,6 +52,7 @@ Function({
 ┃✵│ Platform : ${os.platform()}
 ┃✵│ Ram : ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
 ┃✵│ Version : ${VERSION}
+┃✵┃𝐌𝐑 𝐒𝐀𝐂𝐇𝐈𝐓𝐇 𝐌𝐃▏
 ┃✵╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 `
